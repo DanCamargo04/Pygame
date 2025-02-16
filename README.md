@@ -1,2 +1,2 @@
 # Pygame
-Projetos com Pygame.
+Projetos com Pygame
